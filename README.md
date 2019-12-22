@@ -14,3 +14,9 @@ No terminal do Raspberry PI, entre na pasta do programa e execute ./RaspberryWie
 
 Você está pronto para utilizar o leitor 
 
+# Como instalar o leitor no Raspberry PI 3/4
+
+Vejo o esquema de montagem do leitor de proximidade nos pinos GPIO do Raspberry PI
+
+https://github.com/jtakec/RaspberryWiegandTestador/blob/master/Diagrama_raspberry_wiegand.jpg
+
